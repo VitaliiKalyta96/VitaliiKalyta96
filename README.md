@@ -1,14 +1,20 @@
 <div align="center">
-  <img src="./img/ukrainian-waving-flag.gif" width="170"/>
-  <h2 style="display">
-    Hi there! <img src="./img/hi.gif" width="30px" alt="GIF">
-  </h2>
-  <h2 style="display: inline;">I'm Vitalii. ☀️</h2>
+
+  <img src="./img/ukrainian-waving-flag.gif" width="210px" height="140px"/>
+  <h1 style="display">
+    Hi there!
+    <img src="./img/hi.gif" width="30px" alt="GIF">
+
+  </h1>
+
+<h1 style="display: inline;">I'm Vitalii. ☀️</h1>
+
 </div>
+
 
 ---
 
-## 📊 About Me:
+### 📊 About Me:
 #### - Passionate Data Analyst with expertise in transforming raw data into meaningful insights.  
 #### - Experienced in data visualization, SQL querying, and product analytics.  
 #### - Skilled in A/B testing and performance measurement.   
@@ -23,7 +29,7 @@
     <td align="center"><img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo-thumbnail.png" width="50px" height="60px"/><br><span class="tech-name">SQL</span></td>
     <td align="center"><img src="https://estuary.dev/static/3bd6b9f77724bae6fcf155fa6d5311eb/32e1c/01_Big_Query_23cf90cbab.png" width="120px" height="60px"/><br><span class="tech-name">BigQuery</span></td>
     <td align="center"><img src="https://cdn.prod.website-files.com/5a1eb87c9afe1000014a4c7d/64e351cff723aa13d8d2fb80_647874f379340c2044baca9d_image%252079.png" width="100px" height="60px"/><br><span class="tech-name">Looker Studio</span></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="140px" height="60px"/><br><span class="tech-name">Tableau</span></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="180px" height="60px"/><br><span class="tech-name">Tableau</span></td>
     <td align="center"><img src="https://companieslogo.com/img/orig/AMPL-501a52ff.png?t=1720244490" width="60px" height="60px"/><br><span class="tech-name">Amplitude</span></td>
   </tr>
   <tr>
