@@ -1,0 +1,17 @@
+*.log
+*.tmp
+
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
+venv/
+.env
+.cache/
+
+*~
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
