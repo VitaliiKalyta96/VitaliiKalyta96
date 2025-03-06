@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./img/ukrainian-waving-flag.gif" width="210px" height="140px"/>
+  <img src="./img/ukrainian-waving-flag.gif" width="170px"/>
   <h1 style="display">
     Hi there!
     <img src="./img/hi.gif" width="30px" alt="GIF">
