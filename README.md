@@ -26,10 +26,10 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWr77XRJG6J1wbiFFShdErIJgtvzNYsVnHw&s" width="40px" height="60px"/><br><span class="tech-name">Google Sheets</span></td>
-    <td align="center"><img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo-thumbnail.png" width="50px" height="60px"/><br><span class="tech-name">SQL</span></td>
-    <td align="center"><img src="https://estuary.dev/static/3bd6b9f77724bae6fcf155fa6d5311eb/32e1c/01_Big_Query_23cf90cbab.png" width="120px" height="60px"/><br><span class="tech-name">BigQuery</span></td>
-    <td align="center"><img src="https://cdn.prod.website-files.com/5a1eb87c9afe1000014a4c7d/64e351cff723aa13d8d2fb80_647874f379340c2044baca9d_image%252079.png" width="100px" height="60px"/><br><span class="tech-name">Looker Studio</span></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="180px" height="60px"/><br><span class="tech-name">Tableau</span></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" width="60px" height="60px"/><br><span class="tech-name">SQL</span></td>
+    <td align="center"><img src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="60px" height="60px"/><br><span class="tech-name">BigQuery</span></td>
+    <td align="center"><img src="https://creativ.fi/wp-content/uploads/2024/09/looker_studio.webp" width="60px" height="60px"/><br><span class="tech-name">Looker Studio</span></td>
+    <td align="center"><img src="https://images.squarespace-cdn.com/content/v1/606b4657d6a1031eb108b590/1684192731736-5Q32AY5TIA574IRN3ECD/tableau.jpg" width="60px" height="60px"/><br><span class="tech-name">Tableau</span></td>
     <td align="center"><img src="https://companieslogo.com/img/orig/AMPL-501a52ff.png?t=1720244490" width="60px" height="60px"/><br><span class="tech-name">Amplitude</span></td>
   </tr>
   <tr>
